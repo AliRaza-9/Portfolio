@@ -5,7 +5,7 @@
     <tr>
       <td><b>Information</b></td>
       <td width="50%" rowspan="4">
-        <img alt="Photo" src="./image.jpg" />
+        <img alt="Photo" src="./linkedin profile image.png" />
       </td>
     </tr>
     <tr>
