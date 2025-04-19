@@ -12,9 +12,9 @@
       <td>
         <ul>
           <li>razachoudry9@gmail.com.com</li>
-          <li><a href="https://www.linkedin.com">LinkedIn</a></li>
-          <li><a href="https://github.com">GitHub</a></li>
-          <li>. . .</li>
+          <li><a href="https://www.linkedin.com/in/ali-raxa9">LinkedIn</a></li>
+          <li><a href="https://https://github.com/AliRaza-9">GitHub</a></li>
+         
         </ul>
       </td>
     </tr>
@@ -24,7 +24,7 @@
         <ul>
          
           <li><a href="./Pages/projects.md">Projects</a></li>
-          <li>. . .</li>
+          
         </ul>
       </td>
     </tr>
